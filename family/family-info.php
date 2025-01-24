@@ -7,3 +7,7 @@ saburou
 no excuse
 no hobby
 no money
+
+//family favorite food
+tarou steak
+saburou ramen
