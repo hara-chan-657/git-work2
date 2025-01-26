@@ -8,3 +8,4 @@ kanzou ga warui
 
 //everyone
 me ga warui
+koshi ga warui
