@@ -16,3 +16,11 @@ saburou ramen
 pokemon
 yu-gi-ou
 duel-masters
+
+//family favorite place
+disney land
+jasco
+
+//family memory
+kusatsu onsen tanosikattanaa
+hokkaido ha dekkaido
